@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Real Rust"];
+const statusMessages = ["Playing SunShine Rust"];
 
 
 let currentIndex = 0;
